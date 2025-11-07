@@ -1,24 +1,22 @@
 # Benchmarking Environment Manifest
 
 ## System Information
-- **OS:** Windows 11 Pro (64-bit)
-- **CPU:** Intel Core i5 (4 cores, 2.4 GHz)
+- **OS:** Windows 11 (64-bit)
+- **CPU:** Intel Core i5 (10 cores, 1.3 GHz)
 - **RAM:** 16 GB
-- **Storage:** NVMe SSD
 
 ## Software Versions
-- **PostgreSQL:** 15.6
+- **PostgreSQL:** 15.10
 - **Extensions:**
   - hstore (bundled)
   - jsonb (built-in)
-- **Python:** 3.10.12
-- **Pip:** 23.3.2
+- **Python:** 3.11.9
+- **Pip:** 25.2
 
 ## Python Packages
 - ipython-sql 0.5.0  
-- psycopg2-binary 2.9.9  
-- pandas 2.2.1  
-- jupyter 1.0.0  
+- psycopg2-binary 2.9.10  
+- pandas 2.3.0  
 
 ## Dataset Information
 - **Yelp Business Dataset:** 150,346 records (subset of Yelp Business Dataset)
