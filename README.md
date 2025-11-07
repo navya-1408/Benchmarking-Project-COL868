@@ -3,9 +3,9 @@
 Reproducible setup and commands to load datasets and run aggregation/update benchmarks.
 
 ## 1. Prerequisites
-**PostgreSQL** ≥ 15 (local installation)
-**Python** ≥ 3.9 with `pip`
-(Optional) **Jupyter Notebook / VS Code**
+- **PostgreSQL** ≥ 15 (local installation)
+- **Python** ≥ 3.9 with `pip`
+- (Optional) **Jupyter Notebook / VS Code**
 
 ## 2. PostgreSQL Setup
 
